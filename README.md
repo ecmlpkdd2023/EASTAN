@@ -35,5 +35,3 @@
 
 ## How to fine-tune
     # see train.py for more hyper parameters
-
-## More optimization work is underway, and please cite this job if you find the repo is useful :)
